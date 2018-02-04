@@ -7,6 +7,15 @@
     background-color: #f5f5f5;
 }
 
+.navbar-header{
+    background-color: #4aaaa5;
+}
+
+.navbar-light .navbar-brand{
+    color:#ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
 h3,h1{
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
